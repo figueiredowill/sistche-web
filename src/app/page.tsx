@@ -16,8 +16,8 @@ export default function Home() {
       <Image
         src="/logo-sistche.png"
         alt="Sistchê"
-        width=1084
-        height=307
+        width={1084}
+        height={307}
         priority
         style={{
           display: "block",
